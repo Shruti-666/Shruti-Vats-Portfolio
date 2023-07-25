@@ -8,9 +8,9 @@ MenuBtn.addEventListener('click',function(e) {
     
 //Typing Effect
 let typed = new Typed('.auto-input',{
-    strings: ['Student!','Data Analyst!','UI Designer!','Android App Developer!'],
-    typedpeed:100,
-    backspeed: 100,
+    strings: ['Software Developer!','Data Analyst!','UI Designer!','Android App Developer!'],
+    typeSpeed:100,
+    backSpeed: 100,
     backDelay: 2000,
     loop: true,
 })
