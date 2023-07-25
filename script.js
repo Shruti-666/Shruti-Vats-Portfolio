@@ -3,7 +3,7 @@ let MenuBtn = document.getElementById('MenuBtn')
 
 MenuBtn.addEventListener('click',function(e) {
     document.querySelector('body').classList.toggle('mobile-nav-active');
-    this.classList.toggle('fa-close')
+    this.classList.toggle('fa fa-remove')
 }) 
     
 //Typing Effect
