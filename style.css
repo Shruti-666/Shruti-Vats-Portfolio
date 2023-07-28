@@ -268,7 +268,7 @@ main{
     flex-basis: 70%;
 }
 #about .about-col .info-col h2{
-    color: rgb(71, 27, 61);
+    color: rgb(136, 70, 116);
     /* text-shadow: 2px 2px 2px var(--iconBGColor); */
     font-weight: 700;
     font-size: 35px;
